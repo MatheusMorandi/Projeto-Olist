@@ -23,7 +23,7 @@ ON t1.order_id = t2.order_id
 LEFT JOIN(
    SELECT 
         t2.seller_id,
-        max(julianday('2017-04-01') - julianday(t1.order_approved_at)) as idade_base
+        MAX(julianday('2017-04-01') - julianday(t1.order_approved_at)) AS idade_base
 
     FROM tb_orders AS t1
 
