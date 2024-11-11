@@ -1,6 +1,6 @@
 # Projeto Olist - Maratona de Data Science (DTona!)
 
-Este repositório contém o projeto desenvolvido com base na **Maratona de Data Science (DTona!)**, realizada pelo [TeoMeWhy](https://www.twitch.tv/teomewhy). O projeto utiliza um dataset da [Olist](https://www.kaggle.com/olistbrasil), uma plataforma brasileira de e-commerce, e cobre o ciclo completo de ciência de dados, desde a preparação dos dados até a criação de modelos de Machine Learning.
+Este repositório contém o projeto desenvolvido com base na **Maratona de Data Science (DTona!)**, realizada pelo [TeoMeWhy](https://www.twitch.tv/teomewhy). O projeto utiliza um dataset da [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), uma plataforma brasileira de e-commerce, e cobre o ciclo completo de ciência de dados, desde a preparação dos dados até a criação de modelos de Machine Learning.
 
 ## Objetivo do Projeto
 
@@ -24,7 +24,7 @@ O projeto utiliza o dataset da Olist, que inclui dados sobre:
 - **Avaliações**: feedback dos clientes.
 - **Pagamentos**: valores e métodos de pagamento.
   
-Os dados estão disponíveis no [Kaggle](https://www.kaggle.com/olistbrasil).
+Os dados estão disponíveis no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ## Ciclo de Projeto
 
